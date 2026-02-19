@@ -1,23 +1,19 @@
 {
   "eventos": [
     {
-      "data_hora": "2026-02-19 18:40:00",
-      "atividade": "ESTUDAR PORTUGUES",
-      "tipo": "ALARME"
+      "data_hora": "2026-02-20 09:00:00",
+      "atividade": "PORTUGUES",
+      "tipo": "POMODORO",
+      "foco": 50,
+      "pausa": 10,
+      "mensagem": "A disciplina e a ponte entre metas e realizacoes."
     },
     {
       "data_hora": "2026-02-20 12:00:00",
       "atividade": "FLASHCARDS",
-      "tipo": "ALARME"
-    },
-    {
-      "data_hora": "2026-02-20 15:00:00",
-      "atividade": "ENG. SOFTWARE",
-      "tipo": "ALARME"
+      "tipo": "FIXO",
+      "horas": 1,
+      "mensagem": "O sucesso e a soma de pequenos esforcos diários."
     }
-  ],
-  "config": {
-    "fuso_horario": -3,
-    "verificacao_segundos": 30
-  }
+  ]
 }
