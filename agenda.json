@@ -1,0 +1,23 @@
+{
+  "eventos": [
+    {
+      "data_hora": "2026-02-19 18:40:00",
+      "atividade": "ESTUDAR PORTUGUES",
+      "tipo": "ALARME"
+    },
+    {
+      "data_hora": "2026-02-20 12:00:00",
+      "atividade": "FLASHCARDS",
+      "tipo": "ALARME"
+    },
+    {
+      "data_hora": "2026-02-20 15:00:00",
+      "atividade": "ENG. SOFTWARE",
+      "tipo": "ALARME"
+    }
+  ],
+  "config": {
+    "fuso_horario": -3,
+    "verificacao_segundos": 30
+  }
+}
