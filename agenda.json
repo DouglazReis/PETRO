@@ -1,17 +1,16 @@
 {
   "eventos": [
     {
-      "data_hora": "2026-02-19 22:25:00",
-      "atividade": "TESTE DE ALARME HOJE",
-      "mensagem": "A persistencia vence o talento quando o talento nao se esforca."
+      "data_hora": "2026-02-19 22:37:00",
+      "atividade": "TESTE DE ALARME HOJE"
     },
     {
-      "data_hora": "2026-02-19 22:27:00",
-      "atividade": "ESTUDAR PORTUGUES",
-      "mensagem": "A disciplina e a ponte entre metas e realizacoes."
+      "data_hora": "2026-02-19 22:39:00",
+      "atividade": "ESTUDAR PORTUGUES"
     }
   ]
 }
+
 
 
 
